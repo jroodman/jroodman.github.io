@@ -181,9 +181,9 @@ sub {
  * Remove border when inside `a` element in IE 8/9/10.
  */
 
-img {
+/*img {
   border: 0;
-}
+}*/
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
@@ -871,4 +871,19 @@ dl dd {
 
   #main-content h2.title {
       font-size: 3rem;
+  }
+
+  .image-cropper {
+    width: 10rem;
+    height: 10rem;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+  }
+
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
   }
