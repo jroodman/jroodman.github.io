@@ -864,6 +864,20 @@ dl dd {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
+.image-cropper {
+  width: 10rem;
+  height: 10rem;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+img.profilepic {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+}
 
   .date {
       font-size: 1.4rem;
@@ -871,19 +885,4 @@ dl dd {
 
   #main-content h2.title {
       font-size: 3rem;
-  }
-
-  .image-cropper {
-    width: 10rem;
-    height: 10rem;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-  }
-
-  img.profilepic {
-    display: inline;
-    margin: 0 auto;
-    height: 100%;
-    width: auto;
   }
