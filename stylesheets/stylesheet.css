@@ -181,9 +181,9 @@ sub {
  * Remove border when inside `a` element in IE 8/9/10.
  */
 
-/*img {
+img {
   border: 0;
-}*/
+}
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
@@ -881,7 +881,7 @@ dl dd {
     border-radius: 50%;
   }
 
-  img {
+  img.profilepic {
     display: inline;
     margin: 0 auto;
     height: 100%;
