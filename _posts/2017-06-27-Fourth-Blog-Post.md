@@ -61,8 +61,8 @@ and it rests on the developer to be able to explain basic concepts to them. My
 belief is that this is not hard if approached the right way.
 
 To find out more, look out for . . .
-Developing Communication, A Developers Guide to Building Shared Understanding
-In An Amalgamistic Team
+<b> Developing Communication, A Developers Guide to Building Shared Understanding </b>
+<b> In An Amalgamistic Team </b>
 
 ## Next Up - Personal Project Round 2
 This week I will begin building my second personal project. Something that should
